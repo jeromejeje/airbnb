@@ -1,0 +1,54 @@
+.logo
+{
+	margin: 5px;
+}
+
+
+.menu1
+{
+	margin: 5px;
+}
+
+
+.pre
+{
+	margin: 5%;
+	color: #FEFEFE;
+
+}
+
+
+.menu2
+{
+	height: 30px;
+	margin: 5%;
+}
+
+
+#image
+{
+background-image: url(images/maison1.png);
+background-repeat: no-repeat;
+justify-content: center;
+}
+
+
+.column
+{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.t1
+{
+  margin: 50px;
+}
+
+
+
+
+
